@@ -5,3 +5,24 @@ demo second
 
 wrote new code today 22.
 adfd
+This is my git first commit.
+
+Second commit for today.
+
+<<<<<<< HEAD
+commiting day 318/2017
+commit fourth
+
+committing day may
+
+commiting day may second
+commit fourth
+
+committing day may
+
+commiting day may second
+=======
+commiting day 318/2017
+>>>>>>> parent of 9c08425... Commiting again
+
+Changed in j18 branch.
