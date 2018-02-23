@@ -2,3 +2,6 @@ This is my git first commit.
 
 demo today
 demo second
+
+wrote new code today 22.
+adfd
